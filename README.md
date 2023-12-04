@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=13136893&assignment_repo_type=AssignmentRepo)
 ## Java 2D Array Operations Assignment
 
 Welcome to the Java 2D Array Operations Assignment! This assignment is designed to enhance your understanding and skills in manipulating two-dimensional arrays in Java. You will engage in tasks such as initializing 2D arrays, finding maximum values, calculating averages, and flattening arrays. Follow the TODO comments in the code for guidance on each exercise.
