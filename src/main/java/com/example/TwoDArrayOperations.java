@@ -5,7 +5,8 @@ public class TwoDArrayOperations {
     public static void main(String[] args) {
         // Exercise 1: Initialize and Print a 2D Array
         // TODO: Initialize a 2D array of integers and print its contents in a matrix form.
-        int[][] array = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
+        int[][] array = new int [3][3];
+        // int[][] array = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
         printArray(array);
     }
 
